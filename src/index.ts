@@ -20,7 +20,7 @@
 //import { packageLevelFunction } from "@/components/";
 
 // This DOES NOT give a lint error (not as expected)
-import { packageLevelFunction } from "@/components/";
+import { packageLevelFunction } from "@/components/packageLevelFunc";
 
 
 const func = packageLevelFunction;
